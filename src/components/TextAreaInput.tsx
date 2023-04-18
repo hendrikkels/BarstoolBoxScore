@@ -7,7 +7,6 @@ import React, {
 } from 'react';
 import { useTheme } from 'styled-components';
 import { Div, DivProps, Paragraph, ParagraphProps } from './elements';
-import { useField } from 'formik';
 import { TextArea, TextAreaProps } from '@/components/elements/TextArea';
 
 export interface TextAreaInputProps extends TextAreaProps {

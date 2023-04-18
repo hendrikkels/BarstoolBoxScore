@@ -53,4 +53,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 This works greatly in our favour. Since we are using Next.js and Prisma we have a single full-stack executable, and we are using a serverless database - deployment only takes a couple of seconds. 
 
+Check out the live version of the app hosted [on Vercel](https://hennas-box-score-gkbwge86p-hendrikkels1.vercel.app/).
+
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

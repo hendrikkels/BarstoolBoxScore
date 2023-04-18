@@ -62,7 +62,7 @@ export const TextAreaInput: React.FC<TextAreaInputProps> = (props) => {
         handleValueChange(event.currentTarget.value);
       }
     },
-    [setValue]
+    [_onChange, handleValueChange]
   );
 
   const emptyError = useMemo(() => {
